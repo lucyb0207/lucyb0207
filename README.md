@@ -20,7 +20,7 @@ everything I learn through writing.
 
 ---
 
-## Writing — DeepCode on Substack
+## Writing: DeepCode on Substack
 
 I write practical breakdowns for developers who want to build better and ship
 real projects.
