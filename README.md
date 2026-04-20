@@ -14,7 +14,7 @@ everything I learn through writing.
   React, TypeScript, Node.js, D3.js and Monaco Editor. 
 - **[DevFlow](https://devflow-sand-eta.vercel.app/)**: a second brain for
   developers. Save ideas without losing flow.
-- **[ToxicAI Code Roaster](https://toxic-ai-code-reviewer.vercel.app/)**: an
+- **[ToxicAI Code Roaster](https://github.com/lucyb0207/toxic-ai-code-reviewer)**: an
   AI-powered code reviewer that gives brutally honest (and completely useless)
   feedback.
 
