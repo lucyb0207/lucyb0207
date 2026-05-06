@@ -11,12 +11,7 @@ everything I learn through writing.
 
 - **[CodeAtlas](https://github.com/lucyb0207/CodeAtlas)**: open source tool to
   visualise GitHub repos as interactive file dependency graphs. Built with
-  React, TypeScript, Node.js, D3.js and Monaco Editor. 
-- **[DevFlow](https://devflow-sand-eta.vercel.app/)**: a second brain for
-  developers. Save ideas without losing flow.
-- **[ToxicAI Code Roaster](https://github.com/lucyb0207/toxic-ai-code-reviewer)**: an
-  AI-powered code reviewer that gives brutally honest (and completely useless)
-  feedback.
+  React, TypeScript, Node.js, D3.js and Monaco Editor. Currently supports JavaScript/TypeScript and Python.
 
 ---
 
@@ -25,9 +20,9 @@ everything I learn through writing.
 I write practical breakdowns for developers who want to build better and ship
 real projects.
 
-- [SHIP LOG #01 — Why my full-stack app didn't work](https://lucybatten.substack.com/p/ship-log-01-why-my-full-stack-app)
-- [From URL to website — what actually happens](https://lucybatten.substack.com/p/from-url-to-website-what-happens)
-- [The truth about learning to code that no one tells you](https://lucybatten.substack.com/p/the-truth-about-learning-to-code)
+- [I Built a Tool That Turns Any GitHub Repo Into an Interactive Dependency Graph: Here's Exactly How It Works](https://lucybatten.substack.com/p/i-built-a-tool-that-turns-any-github?r=56966q))
+- [How Babel's AST Parser Represents JavaScript Import Statements - With Annotated JSON Examples](https://lucybatten.substack.com/p/how-babels-ast-parser-represents?r=56966q))
+- [INSIGHT LOG #01: The Full-Stack Request–Response Loop Explained](https://lucybatten.substack.com/p/insight-log-01-the-full-stack-requestresponse?r=56966q))
 
 → [Subscribe on Substack](https://lucybatten.substack.com)
 
