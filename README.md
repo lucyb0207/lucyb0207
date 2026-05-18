@@ -51,7 +51,7 @@ welcome on any of my repos, especially CodeAtlas.
 ## GitHub Stats
 
 <!--Start Count Merged PRs-->
-<span><img src="https://img.shields.io/badge/Total_Merged_PRs-0-1877F2?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/Total_Merged_PRs-5-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 ---
@@ -59,7 +59,11 @@ welcome on any of my repos, especially CodeAtlas.
 ## Recent Merged PRs
 
 <!--Start Merged PRs-->
-Loading...
+1. 🥳 Merged PR [#10](https://github.com/lucyb0207/CodeAtlas/pull/10) - [lucyb0207/CodeAtlas](https://github.com/lucyb0207/CodeAtlas)
+2. 🎉 Merged PR [#9](https://github.com/lucyb0207/CodeAtlas/pull/9) - [lucyb0207/CodeAtlas](https://github.com/lucyb0207/CodeAtlas)
+3. 🎊 Merged PR [#8](https://github.com/lucyb0207/CodeAtlas/pull/8) - [lucyb0207/CodeAtlas](https://github.com/lucyb0207/CodeAtlas)
+4. 🥂 Merged PR [#7](https://github.com/lucyb0207/CodeAtlas/pull/7) - [lucyb0207/CodeAtlas](https://github.com/lucyb0207/CodeAtlas)
+5. 🙌🏼 Merged PR [#1](https://github.com/lucyb0207/CodeAtlas/pull/1) - [lucyb0207/CodeAtlas](https://github.com/lucyb0207/CodeAtlas)
 <!--Finish Merged PRs-->
 
 ---
