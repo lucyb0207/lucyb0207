@@ -36,14 +36,11 @@ if __name__ == "__main__":
             readme_content = f.read()
             
         new_readme_content = re.sub(
-        r'(\<!--Start Count Merged PRs-->\n)(.*?)(\<!--Finish Count Merged PRs-->\n)|(\<!--Start Merged PRs-->\n)(.*?)(\<!--Finish Merged PRs-->\n)',
-        lambda m: (
-            f'{m.group(1)}{total_merged_prs_content}\n{m.group(3)}' if m.group(1) else
-            f'{m.group(4)}{pr_content}\n{m.group(6)}'
-        ),
-        readme_content,
-        flags=re.DOTALL
-         )
+            r'(\<!--Start Count Merged PRs-->\n)(.*?)(\<!--Finish Count Merged PRs-->\n)',
+            f'\\1{total_merged_prs_content}\n\\3',
+            readme_content,
+            flags=re.DOTALL
+        )
 
 
         with open("README.md", "w") as f:
