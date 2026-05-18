@@ -56,14 +56,6 @@ welcome on any of my repos, especially CodeAtlas.
 
 ---
 
-## Recent Merged PRs
-
-<!--Start Merged PRs-->
-Loading...
-<!--Finish Merged PRs-->
-
----
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/Website-lucyb0207.github.io-1D9E75?style=flat&logo=github&logoColor=white)](https://lucyb0207.github.io)
