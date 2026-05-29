@@ -71,4 +71,4 @@ Loading...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucybatten-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucybatten)
 [![Twitter](https://img.shields.io/badge/Twitter-%40lucyb0207-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/lucyb0207)
 
-
+[![Lucy profile views](https://u8views.com/api/v1/github/profiles/198104013/views/day-week-month-total-count.svg)](https://u8views.com/github/lucyb0207)
